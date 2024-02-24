@@ -25,3 +25,28 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Importante neste projeto
+
+Alterar o arquivo "tsconfig.json" para ler json diretament adicionando as linhas </br>
+  - "resolveJsonModule": true,
+  - "allowSyntheticDefaultImports": true,
+
+Lembrar de alterar o css geral (styles.css) para "forçar" a limpeza da formatação css:
+```
+*{
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+  color: antiquewhite;
+}
+```
+### Projeto replicado
+ Sob video aulas do Felipe Aguir - Dio
+  
+
+
+
+
+
