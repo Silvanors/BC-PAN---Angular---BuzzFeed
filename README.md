@@ -42,7 +42,9 @@ Lembrar de alterar o css geral (styles.css) para "forçar" a limpeza da formata�
   color: antiquewhite;
 }
 ```
-### Projeto replicado por Silvano Rodrigues sob video aulas do Felipe Aguir - Dio no bootcamp Coding The Future Banco PAN 
+### Projeto replicado por Silvano Rodrigues com aulas do Felipe Aguir - Dio no bootcamp Coding The Future Banco PAN
+  Um projeto muito de boa abstração e muito esclaredor me dando sem falar que foi um trabalho divertido de replicar.
+  Mais uma vez gostaria de agradecer aos especialistas da dio e os curos de qualidade ofertados.
 
 
 
